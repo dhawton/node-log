@@ -1,5 +1,5 @@
 {
-  "name": "node-log",
+  "name": "@dhawton/dh-log",
   "version": "1.0.0",
   "description": "Logging library",
   "main": "build/main/index.js",
